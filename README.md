@@ -1,5 +1,3 @@
-
-
 <h1 align='center'>
   Hi there 👋 I'm ChenJiacheng 👨‍💻
 </h1>
